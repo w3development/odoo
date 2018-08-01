@@ -38,3 +38,6 @@ setup/win32/static/postgresql*.exe
 /man/
 /share/
 /src/
+
+# vagrant resources
+ubuntu-xenial-16.04-cloudimg-console.log
